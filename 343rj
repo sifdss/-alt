@@ -1,6 +1,34 @@
 
 #EXTM3U x-tvg-url="https://botallen.live/epg.xml" url-tvg="https://botallen.live/epg.xml"
 
+
+#EXTINF:-1,SPORTS - STAR SPORTS 1 ENGLISH HD ◉ 
+http://tvservice.pro:80/039384448658996/1249205802/34493
+#EXTINF:-1,SPORTS - STAR SPORTS 1 HINDI HD
+http://tvservice.pro:80/039384448658996/1249205802/34492
+#EXTINF:-1,SPORTS - STAR SPORTS 2 HD
+http://tvservice.pro:80/039384448658996/1249205802/34491
+#EXTINF:-1,SPORTS - STAR SPORTS 3
+http://tvservice.pro:80/039384448658996/1249205802/34490
+#EXTINF:-1,SPORTS - STAR SPORTS SELECT 1 HD
+http://tvservice.pro:80/039384448658996/1249205802/34489
+#EXTINF:-1,SPORTS - STAR SPORTS SELECT 2 HD
+http://tvservice.pro:80/039384448658996/1249205802/34488
+#EXTINF:-1,SPORTS - STAR SPORTS TAMIL
+http://tvservice.pro:80/039384448658996/1249205802/34487
+#EXTINF:-1,SPORTS - SKY SPORTS CRICKET FHD
+http://tvservice.pro:80/039384448658996/1249205802/155928
+#EXTINF:-1,SPORTS - FOX SPORTS 501 | UHD
+http://tvservice.pro:80/039384448658996/1249205802/155929
+#EXTINF:-1,SPORTS - SUPERSPORT 12 HD
+http://tvservice.pro:80/039384448658996/1249205802/155930
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K0KhEGr.jpg" group-title="adultswim.com",??????????[COLOR red]AdultSwim[/COLOR]??????????
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
 
