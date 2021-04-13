@@ -41,6 +41,27 @@ http://iptvmedia.live:8080/test-58ec9e/3532/45506
 
 
 
+#EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Live 5
+https://ipl-live.s3.ap-south-1.amazonaws.com/mixcasthd.com_3/index2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mBpwuIk.jpg" group-title="IPL Live",Star Sports Hindi
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2508/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Live 7
+http://103.109.110.102:1935/live/starsports1tamil.stream_720p/chunklist_w2016674381.m3u8
+#EXTINF:-1 tvg-logo="https://www.nsbpictures.com/wp-content/uploads/2019/03/ipl-logo.png" group-title="IPL Live",Live 10
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/221
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
