@@ -82,118 +82,15 @@ https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 #EXTINF:-1 tvg-name="Sony Six Sd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIX_Masthead_Logo.png" ,Sony Six Sd
 https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
 
-****************************************************************************
-
-
-
-#EXTINF:-1,USA: MTV
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-
 #EXTINF:-1 tvg-logo="" ,Rasi Hindi
 http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S4J5l2Q.png" ,Animal Planet HD 
-https://itvorigin.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S4J5l2Q.png",Animal Planet HD (2)
-https://itvorigin.multitvsolution.com/idvo/aphdhindi_360p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/daOCMoN.jpg" ,Animal Planet SD 
-https://itvorigin.multitvsolution.com/idvo/animalplaneteng_360p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MAuOZRx.png" ,Discovery HD
-https://itvorigin.multitvsolution.com/idvo/discoveryhd_360p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k00vIzG.png" ,Discovery SD
-http://itvorigin.multitvsolution.com/idvo/discoveryhindi_360p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k00vIzG.png" ,Discovery Asia
-https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RbLpy8B.png" ,Discovery Science
-https://itvorigin.multitvsolution.com/idvo/discoversciencehindi_360p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cTEeprm.jpg" ,Discovery Turbo
-https://itvorigin.multitvsolution.com/idvo/turboeng_540p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/kfvgxtjsp5o6yw2/id.png" ,Discovery ID
-https://streamitv.multitvsolution.in/idvo/investigationdiscovery.m3u8
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 ,Ananda TV
-http://103.205.133.19/hls/anandatv.m3u8
-#EXTINF:-1 ,Asian TV
-http://103.205.133.19/hls/asiantv.m3u8
-#EXTINF:-1 ,ATN Bangla
-http://103.205.133.19/hls/atnbangla.m3u8
-#EXTINF:-1 ,ATN News
-http://103.205.133.19/hls/atnnews.m3u8
-#EXTINF:-1 ,Bangla Vision
-http://103.205.133.19/hls/banglavision.m3u8
-#EXTINF:-1 ,BTV
-http://103.205.133.19/hls/btv.m3u8
-#EXTINF:-1 ,BTV World
-http://103.205.133.19/hls/btvworld.m3u8
-#EXTINF:-1 ,Bangla TV
-http://103.205.133.19/hls/banglatv.m3u8
-#EXTINF:-1 ,Channel 24
-http://103.205.133.19/hls/channel24.m3u8
-#EXTINF:-1 ,Channel T1
-http://128.199.212.160/channelt1/1080/index.m3u8
-#EXTINF:-1 ,Channel S
-https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
-#EXTINF:-1 ,DBC News
-http://103.205.133.19/hls/dbcnews.m3u8
-#EXTINF:-1 ,Digi Bangla
-http://103.205.133.19/hls/digibangla.m3u8
-#EXTINF:-1 ,Desh TV
-http://103.205.133.19/hls/deshtv.m3u8
-#EXTINF:-1 ,Deepto TV
-http://103.205.133.19/hls/deeptotv.m3u8
-#EXTINF:-1 ,ETV
-http://103.205.133.19/hls/ekushey.m3u8
-#EXTINF:-1 ,Gaan Bangla
-http://103.205.133.19/hls/gaanbangla.m3u8
-#EXTINF:-1 ,Jamuna TV
-http://103.205.133.19/hls/jamunatv.m3u8
-#EXTINF:-1 ,Mohona TV
-http://103.205.133.19/hls/mohonatv.m3u8
-#EXTINF:-1 ,My TV
-http://103.205.133.19/hls/mytv.m3u8
-#EXTINF:-1 ,Nagorik
-http://103.205.133.19/hls/nagorik.m3u8
-#EXTINF:-1 ,News24
-http://103.205.133.19/hls/news24.m3u8
-#EXTINF:-1 ,NTV
-http://103.205.133.19/hls/ntv.m3u8
-#EXTINF:-1 ,RTV
-http://103.205.133.19/hls/rtv.m3u8
-#EXTINF:-1 ,SATV
-http://103.205.133.19/hls/satv.m3u8
-#EXTINF:-1 ,Shomoy TV
-http://103.205.133.19/hls/somoy.m3u8
 #EXTINF:-1 ,&tv
 http://103.205.133.19/hls/andtv.m3u8
-#EXTINF:-1 ,ABP News
-http://103.205.133.19/hls/abpnews.m3u8
-#EXTINF:-1 ,B4U Movies
-http://103.205.133.19/hls/b4umovies.m3u8
-#EXTINF:-1 ,B4U Music
-http://103.205.133.19/hls/b4umusic.m3u8
-#EXTINF:-1 ,Dhoom Music
-http://103.205.133.19/hls/dhoommusic.m3u8
 #EXTINF:-1 ,BBC Earth
 http://103.205.133.19/hls/bbcearth.m3u8
 #EXTINF:-1 ,Sony Six
 http://103.205.133.19/hls/sonysix.m3u8
-#EXTINF:-1 ,Sony 8
+#EXTINF:-1 ,Sony bangla
 http://103.205.133.19/hls/sony8.m3u8
 #EXTINF:-1 ,Sony Ten 1
 http://103.205.133.19/hls/ten1.m3u8
@@ -201,52 +98,15 @@ http://103.205.133.19/hls/ten1.m3u8
 http://103.205.133.19/hls/ten2.m3u8
 #EXTINF:-1 ,Sony Ten 3
 http://103.205.133.19/hls/ten3.m3u8
-#EXTINF:-1 ,Colors Bangla
-http://103.205.133.19/hls/colorsbangla.m3u8
-#EXTINF:-1 ,Ruposhi Bangla
-http://103.205.133.19/hls/ruposhibangla.m3u8
 #EXTINF:-1 ,Wow Cinema
 http://103.205.133.19/hls/wowcinema.m3u8
 #EXTINF:-1 ,Zing
 http://103.205.133.19/hls/zing.m3u8
-#EXTINF:-1 ,Jonack TV
-http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
-#EXTINF:-1 ,Sony Movies
-http://51.52.156.22:8888/http/009
-#EXTINF:-1 ,Subrang TV
-http://cdn61.liveonlineservices.com/hls/subrang.m3u8
-#EXTINF:-1 ,Times Now
-https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
-#EXTINF:-1 ,Sristi TV
-http://tempe.jagobd.com:1932/iptv/independent.stream/playlist.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://imgur.com/download/wHKvVQH/",Zee Keralam HD
 https://y5w8j4a9.ssl.hwcdn.net/livingfoodzhd/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fXuxFbz.png",Discovery HD
-https://itvorigin.multitvsolution.com/idvo/discoverytamil_540p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6hqqTuq.jpeg",Animal Planet
-https://itvorigin.multitvsolution.com/idvo/aphdhindi_360p/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/a0aXk2W.png",Travel XP HD
-https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png"  ,Discovery Kids
-https://itvorigin.multitvsolution.com/idvo/discoverykidseng_360p/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/download/D2Ujneo/" group-title="MUSIC",Sun Music HD
 http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla HD (3)"  ,Zee Bangla HD (3)
+#EXTINF:-1 ,Zee Bangla HD
 http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
 
 
