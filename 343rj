@@ -35,8 +35,9 @@
 
 
 
-#EXTINF:0,tvg-id=""  group-title="INDIA TV",&FLIX HD
-http://iptvmedia.live:8080/test-58ec9e/3532/45506
+
+#EXTINF:0  group-title="INDIA TV",UTV Action
+http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/f4Gg802.jpg" ,Sun Bangla
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Wg0tVio.jpg" , Star Jalsha HD (2)
@@ -45,6 +46,8 @@ https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
 https://ott.bingebd.com/live/ngrp:star_plus_hd_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DRImUvN.jpg" ,Star Gold HD
 https://ott.bingebd.com/live/ngrp:star_gold_all/playlist.m3u8
+#EXTINF:-1 ,STAR Gold HD
+http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X6jZnUy.png" ,Star Movies Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/chunklist_w1770017437.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" ,Cartoon Network Hindi
@@ -84,6 +87,8 @@ https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
 
 #EXTINF:-1 tvg-logo="" ,Rasi Hindi
 http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFMthkmM/rasi-hollywood.png" ,Rasi hollywood
+http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
 #EXTINF:-1 ,&tv
 http://103.205.133.19/hls/andtv.m3u8
 #EXTINF:-1 ,BBC Earth
