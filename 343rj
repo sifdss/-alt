@@ -3155,53 +3155,31 @@
 
 
 
-#EXTINF:0  group-title="VIP TV",
-#EXTINF:-1,AF: SuperSport Cricket FHD
-http://m3ulink.com:8080/live/KrE8Nd8bK/T51jS00poc/276786.ts
-#EXTINF:-1,AF: SuperSport Cricket HD
-http://m3ulink.com:8080/live/KrE8Nd8bK/T51jS00poc/276763.ts
-#EXTINF:-1,UK:  Sky Sports Cricket FHD
-http://m3ulink.com:8080/live/KrE8Nd8bK/T51jS00poc/114541.ts
-#EXTINF:-1,UK: Sky Sports Cricket SD
-http://m3ulink.com:8080/live/KrE8Nd8bK/T51jS00poc/114426.ts
-#EXTINF:-1,AF: SuperSport Cricket
-http://m3ulink.com:8080/live/KrE8Nd8bK/T51jS00poc/111833.ts
-#EXTINF:-1,MY: ASTRO CRICKET
-http://m3ulink.com:8080/live/KrE8Nd8bK/T51jS00poc/110265.ts
-#EXTINF:-1,MY: ASTRO CRICKET HD
-http://m3ulink.com:8080/live/KrE8Nd8bK/T51jS00poc/55432.ts
-#EXTINF:-1,IN:  WILLOW CRICKET  Backup
-http://m3ulink.com:8080/live/KrE8Nd8bK/T51jS00poc/8674.ts
-#EXTINF:-1,IN: WILLOW CRICKET HD
-http://m3ulink.com:8080/live/KrE8Nd8bK/T51jS00poc/4403.ts
-#EXTINF:-1,UK: SKY SPORTS CRICKET
-http://m3ulink.com:8080/live/KrE8Nd8bK/T51jS00poc/2462.ts
-#EXTINF:-1,UK: SKY SPORTS CRICKET HD
-http://m3ulink.com:8080/live/KrE8Nd8bK/T51jS00poc/24.ts
-#EXTINF:-1,UK: SKY SPORTS FHD CRICKET
-http://m3ulink.com:8080/live/KrE8Nd8bK/T51jS00poc/8614.ts
-#EXTINF:-1,UK VIP: SKY SPORTS CRICKET HD
-http://m3ulink.com:8080/live/KrE8Nd8bK/T51jS00poc/18048.ts
-#EXTINF:-1,US: WILLOW CRICKET HD
-http://m3ulink.com:8080/live/KrE8Nd8bK/T51jS00poc/33365.ts
-#EXTINF:-1,UK: SKY SPORTS CRICKET HD Backup
-http://m3ulink.com:8080/live/KrE8Nd8bK/T51jS00poc/40200.ts
-#EXTINF:-1,AU: Fox Cricket 501
-http://m3ulink.com:8080/live/KrE8Nd8bK/T51jS00poc/47370.ts
-#EXTINF:-1,IN: SPO STAR SPORTSHINDI1 FHD
-http://m3ulink.com:8080/live/KrE8Nd8bK/T51jS00poc/54241.ts
-#EXTINF:-1,IN: STAR SPORTS 1 HINDI HD
-http://m3ulink.com:8080/live/KrE8Nd8bK/T51jS00poc/53994.ts
-#EXTINF:-1,IN: HINDI ANIMALPLANET FHD
-http://m3ulink.com:8080/live/KrE8Nd8bK/T51jS00poc/54166.ts
-#EXTINF:-1,IN: HINDI DISCOVERY FHD
-http://m3ulink.com:8080/live/KrE8Nd8bK/T51jS00poc/54165.ts
-#EXTINF:-1,IN: TRAVEL XP HD HINDI-1
-http://m3ulink.com:8080/live/KrE8Nd8bK/T51jS00poc/54036.ts
-#EXTINF:-1,IN: HISTORY 18 HINDI
-http://m3ulink.com:8080/live/KrE8Nd8bK/T51jS00poc/17094.ts
+#EXTINF:0  group-title="VIP TV",&tv FHD
 
-
+http://iptvmedia.live:8080/test-91afc9/941c/16964
+#EXTINF:-1,IN: &Xplor HD
+http://iptvmedia.live:8080/test-91afc9/941c/196116
+#EXTINF:-1,IN ANIMAL PLANET Hindi HD
+http://iptvmedia.live:8080/test-91afc9/941c/273373
+#EXTINF:-1,IN: COLORS India HD
+http://iptvmedia.live:8080/test-91afc9/941c/269737
+#EXTINF:-1,IN: MINIPLEX AIRTEL
+http://iptvmedia.live:8080/test-91afc9/941c/267540
+#EXTINF:-1,IN: STAR GOLD FHD
+http://iptvmedia.live:8080/test-91afc9/941c/1070
+#EXTINF:-1,IN: Star Gold Select HD
+http://iptvmedia.live:8080/test-91afc9/941c/82623
+#EXTINF:-1,IN: Star Plus FHD
+http://iptvmedia.live:8080/test-91afc9/941c/1069
+#EXTINF:-1,IN: Star Sport 1
+http://iptvmedia.live:8080/test-91afc9/941c/3630
+#EXTINF:-1,IN: Star Sport 2 HD
+http://iptvmedia.live:8080/test-91afc9/941c/3631
+#EXTINF:-1,IN: Star Sport 3 HD
+http://iptvmedia.live:8080/test-91afc9/941c/62584
+#EXTINF:-1,IN: Travel Xp HD
+http://iptvmedia.live:8080/test-91afc9/941c/82636
 
 
 
@@ -3408,9 +3386,10 @@ http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTINF:-1,STEELBIRD MUSIC
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 
-
-
-
+#EXTINF:0  group-title="HARYANVI SONGS",HARYANVI HITS
+https://m-c037-j2apps.s.llnwi.net/hls/7082.HaryanviHits.in_480p/index.m3u8
+#EXTINF:0 , HARYANA BEATS
+https://m-c04-j2apps.s.llnwi.net/hls/8041.HaryanaBeats.in_480p/index.m3u8
 
 
 
@@ -3689,7 +3668,7 @@ https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a6
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-id="SonyESPNHD.in" tvg-name="Sony ESPN HD" tvg- ,Sony ESPN HD
 https://gma2.blab.email/espnu.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="US Sports" tvg- group-title="Sports",US Sports
+#EXTINF:-1 tvg-id="ext" tvg-name="US Sports" tvg- ,US Sports
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
 
@@ -3796,7 +3775,8 @@ https://itvorigin.multitvsolution.com/hls/newsx_720p/index.m3u8
 https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_5_av-p.m3u8
 #EXTINF:-1,[ENGLISH NATIONAL]INDIA TODAY
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
-
+#EXTINF:-1,[ENGLISH NATIONAL]WION
+https://bit.ly/3fUGoKI
 #EXTINF:-1,[INTERNATIONAL NEWS]FOX NEWS
 https://fncgohls-i.akamaihd.net/hls/live/263399-b/FNCGOHLSv2/Fox_News_v2_VIDEO_2_664000.m3u8
 #EXTINF:-1 ,[INTERNATIONAL NEWS]DW ENGLISH
@@ -3869,8 +3849,6 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_p
 
 #EXTINF:-1 ,group-title="KIDS", Baby First
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BABYFIRST-SD-720p/chunks.m3u8
-#EXTINF:-1,IN: CARTOON NETWORK HINDI
-http://m3ulink.com:8080/live/KrE8Nd8bK/T51jS00poc/1072.ts
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTgzMzYzMDIiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoic29uaWNfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZkZ5M1ptcE5KWFd5SmFqeDI1RE1QUlg3UkxKdnZRMTM0ZV95YVZoUzU3RGJCMms3b2lNRzZaVWtPZUwwSkNFT0NDR3pkamQzZmtpa25zVTdUM1dWa3ZuUHJuUUdRcVNqM2I5WGVfWW5VQ19KWHVxQVpoMXpaeWlncHpNcHJRYUtwTmM4R3gyRGdyZFBmWk1Qdmh2enlZeTJEa1N2U1d5amlyR2NsM1drLVZST0NvZ0RLeC10WERXV2RqY0hHNm1SMjZrX0xQMmI3MTQwMm1IX0xMX2VncDZIMVpyOWFVN2RFcGV5MGNrQjhDVER4QS02aFBWYnJzYXBJSEkxb05DZEJNWV9oMVNuVF85dEpJaXVlVjVNOWtUS2dWTk9qTHgzWHlYMlB1R0NLdWNsZDExbDFFakdNdldCRFhmaVJ6QkRLTmVrdnVpZ2Nwd2VZZ3hqQ0xCcG5QeENpdjhlaWhqQ05yTVpDanN0NFg3X1h6ZEkyWU9uMXlNV040VHpFNTJmZjBSa1BfM2N3VndGOWJHVEJmS2c4RXVjU2JEbWg2ZXdIVDhaMENYYVlvRnhQUERHNFJOVnRVMlBoSnNqNExfeGxHY3h3bTFYRlJpZERBVEJUMjAtTzB1Z0w4WHprVHA0bDVtOS1vdlRQeW1yIiwidWRpZCI6IjJhM2IwZTVjZDAzNjQ3Y2NhNGEyN2NjNjcyNWM1MjY2IiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=urCKvCdMXbH2BNLVZZnza3iczVE%3d
 #EXTINF:-1 tvg-id="815" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" ,Sonic Hindi
@@ -3904,4 +3882,5 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 
 #EXTINF:-1,group-title="PAKISTAN",92 News
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+
 
