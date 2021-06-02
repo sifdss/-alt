@@ -3157,29 +3157,21 @@
 
 #EXTINF:0  group-title="VIP TV",&tv FHD
 
-http://iptvmedia.live:8080/test-91afc9/941c/16964
+http://m3u.area51iptv.site:8080/live/sauda11/VTwpht6gQe/6215.ts
 #EXTINF:-1,IN: &Xplor HD
 http://iptvmedia.live:8080/test-91afc9/941c/196116
-#EXTINF:-1,IN ANIMAL PLANET Hindi HD
-http://iptvmedia.live:8080/test-91afc9/941c/273373
-#EXTINF:-1,IN: COLORS India HD
-http://iptvmedia.live:8080/test-91afc9/941c/269737
-#EXTINF:-1,IN: MINIPLEX AIRTEL
-http://iptvmedia.live:8080/test-91afc9/941c/267540
-#EXTINF:-1,IN: STAR GOLD FHD
-http://iptvmedia.live:8080/test-91afc9/941c/1070
-#EXTINF:-1,IN: Star Gold Select HD
-http://iptvmedia.live:8080/test-91afc9/941c/82623
-#EXTINF:-1,IN: Star Plus FHD
-http://iptvmedia.live:8080/test-91afc9/941c/1069
-#EXTINF:-1,IN: Star Sport 1
-http://iptvmedia.live:8080/test-91afc9/941c/3630
-#EXTINF:-1,IN: Star Sport 2 HD
-http://iptvmedia.live:8080/test-91afc9/941c/3631
-#EXTINF:-1,IN: Star Sport 3 HD
-http://iptvmedia.live:8080/test-91afc9/941c/62584
-#EXTINF:-1,IN: Travel Xp HD
-http://iptvmedia.live:8080/test-91afc9/941c/82636
+#EXTINF:-1,IN: HINDI ANIMALPLANET FHD
+http://m3u.area51iptv.site:8080/live/sauda11/VTwpht6gQe/54166.ts
+#EXTINF:-1,IN: HIN COLORS TV FHD
+http://m3u.area51iptv.site:8080/live/sauda11/VTwpht6gQe/54181.ts
+#EXTINF:-1,IN: HIN STAR GOLD FHD
+http://m3u.area51iptv.site:8080/live/sauda11/VTwpht6gQe/54122.ts
+#EXTINF:-1,IN: HIN STAR PLUS FHD
+http://m3u.area51iptv.site:8080/live/sauda11/VTwpht6gQe/54224.ts
+#EXTINF:-1,IN: TRAVEL XP HD HINDI-1
+http://m3u.area51iptv.site:8080/live/sauda11/VTwpht6gQe/54036.ts
+#EXTINF:-1,IN: TRAVEL XP ENG HD
+http://m3u.area51iptv.site:8080/live/sauda11/VTwpht6gQe/54035.ts
 
 
 
