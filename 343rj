@@ -3155,23 +3155,7 @@
 
 
 
-#EXTINF:0  group-title="VIP TV",&tv FHD
 
-http://m3u.area51iptv.site:8080/live/sauda11/VTwpht6gQe/6215.ts
-#EXTINF:-1,IN: &Xplor HD
-http://iptvmedia.live:8080/test-91afc9/941c/196116
-#EXTINF:-1,IN: HINDI ANIMALPLANET FHD
-http://m3u.area51iptv.site:8080/live/sauda11/VTwpht6gQe/54166.ts
-#EXTINF:-1,IN: HIN COLORS TV FHD
-http://m3u.area51iptv.site:8080/live/sauda11/VTwpht6gQe/54181.ts
-#EXTINF:-1,IN: HIN STAR GOLD FHD
-http://m3u.area51iptv.site:8080/live/sauda11/VTwpht6gQe/54122.ts
-#EXTINF:-1,IN: HIN STAR PLUS FHD
-http://m3u.area51iptv.site:8080/live/sauda11/VTwpht6gQe/54224.ts
-#EXTINF:-1,IN: TRAVEL XP HD HINDI-1
-http://m3u.area51iptv.site:8080/live/sauda11/VTwpht6gQe/54036.ts
-#EXTINF:-1,IN: TRAVEL XP ENG HD
-http://m3u.area51iptv.site:8080/live/sauda11/VTwpht6gQe/54035.ts
 
 
 
