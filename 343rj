@@ -3576,6 +3576,8 @@ http://ssx1.1xcdn.xyz/hls/j2/Ten2_HD_HLS.m3u8
 http://ssx1.1xcdn.xyz/hls/j2/Ten3_HD_HLS.m3u8
 #EXTINF:-1 ,Willow TV
 https://atc.hopto.org/Cricket-Willow-Quality/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Sky Sports Cricket
+http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8
 #EXTINF:-1,BT SPORTS 1
 https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1,BT Sport 2 HD
@@ -3804,6 +3806,8 @@ http://203.162.235.41:16918
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P1bxKcm.jpg" group-title="TRAVEL AND SCIENCE",Travelxp HD
 https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
+#EXTINF:-1,TLC HD
+https://idvd.multitvsolution.com/idvo/tlchdhindi_540p/index.m3u8
 #EXTINF:-1 ,BBC Earth
 http://103.205.133.19/hls/bbcearth.m3u8
 #EXTINF:-1,Discovery asia
