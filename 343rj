@@ -3295,7 +3295,8 @@ https://live.hungama.com/linear/kadak-hits/playlist.m3u8
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 #EXTINF:-1,Pop Pataka T SERIES
 https://live.hungama.com/linear/pop-pataka/playlist.m3u8
-
+#EXTINF:-1,Zee MUSIC Co.
+https://y5w8j4a9.ssl.hwcdn.net/zee5_romance/tracks-v1a1/index.m3u8
 
 #EXTINF:0 ,PTC MUSIC
 https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
