@@ -4459,42 +4459,104 @@ http://rtmp.one.by:1499
 
 
 
+
+
+
+
 #EXTINF:-1, tvg-logo="" group-title="HINDI HDTV" , STAR PLUS HD
 http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1,IN: Star Plus India FHD
+http://iptvmedia.live:8080/14736/a477ffe7/1069
+#EXTINF:-1,[IN] STAR PLUS FHD
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9185
+#EXTINF:-1,[IN] Star Plus HD IN
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9147
 #EXTINF:-1, tvg-logo=""  , STAR BHARAT HD
 http://89.41.180.253:8080/INDIA_HINDI/STAR_BHARAT_HD/index.m3u8
+#EXTINF:-1,UK: Star Bharat
+http://iptvmedia.live:8080/14736/a477ffe7/70816
+#EXTINF:-1,[IN] Star Bharat IN
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9141
 #EXTINF:-1, tvg-logo="" , SONY HD
-https://bit.ly/3h87pMt
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9175
+#EXTINF:-1,[IN] Sony HD IN
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9138
 #EXTINF:-1, tvg-logo=""  , SAB HD
 http://89.41.180.253:8080/INDIA_HINDI/SONY_SAB_HD/index.m3u8
+#EXTINF:-1,[IN] Sony Sab HD IN
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9140
+#EXTINF:-1,IN: Sony SAB TV Asia
+http://iptvmedia.live:8080/14736/a477ffe7/1073
+#EXTINF:-1,IN: Sony SAB TV India
+http://iptvmedia.live:8080/14736/a477ffe7/20649
 #EXTINF:-1, tvg-logo=""  , COLORS HD
 http://89.41.180.253:8080/INDIA_HINDI/COLORS_HD/index.m3u8
+#EXTINF:-1,IN: COLORS FHD
+http://iptvmedia.live:8080/14736/a477ffe7/1366
+#EXTINF:-1,[IN] COLORS FHD
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9184
+#EXTINF:-1,[IN] Colors HD IN
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9092
 #EXTINF:-1, tvg-logo=""  , ZEE TV HD
 http://89.41.180.253:8080/INDIA_HINDI/ZEE_TV_HD/index.m3u8
+#EXTINF:-1,[IN] Zee TV HD IN
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9173
+#EXTINF:-1,IN: Zee TV India HD
+http://iptvmedia.live:8080/14736/a477ffe7/1348
 #EXTINF:-1, tvg-logo=""  , AND TV HD
 http://89.41.180.253:8080/INDIA_HINDI/AND_TV_HD/index.m3u8
+#EXTINF:-1,IN: & TV HD
+http://iptvmedia.live:8080/14736/a477ffe7/16964
+#EXTINF:-1,[IN] & TV HD IN
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9073
 #EXTINF:-1, tvg-logo=""  , STAR GOLD HD
 http://89.41.180.253:8080/INDIA_HINDI/STAR_GOLD_HD/index.m3u8
+#EXTINF:-1,IN: Star Gold India
+http://iptvmedia.live:8080/14736/a477ffe7/1
+#EXTINF:-1,[IN] STAR GOLD HD
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9142
+#EXTINF:-1,[IN] Star Gold HD IN
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9143
 #EXTINF:-1, tvg-logo=""  , STAR GOLD SELECT HD
 http://89.41.180.253:8080/INDIA_HINDI/STAR_GOLD_SELECT_HD/index.m3u8
+#EXTINF:-1,[IN] Star Gold Select HD IN
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9144
 #EXTINF:-1, tvg-logo=""  , MAX HD
-https://bit.ly/3AnCpQ3
+http://iptvmedia.live:8080/14736/a477ffe7/63397
+#EXTINF:-1,[IN] Sony Max HD IN
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9139
+#EXTINF:-1,IN: Sony Max FHD
+http://iptvmedia.live:8080/14736/a477ffe7/1359
 #EXTINF:-1, tvg-logo=""  , ZEE CINEMA HD
 http://89.41.180.253:8080/INDIA_HINDI/ZEE_CINEMA_HD/index.m3u8
+#EXTINF:-1,IN: Zee Cinema FHD
+http://iptvmedia.live:8080/14736/a477ffe7/1350
+#EXTINF:-1,[IN] Zee Cinema HD IN
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9168
 #EXTINF:-1, tvg-logo=""  , UTV HD
 http://89.41.180.253:8080/INDIA_HINDI/UTV_HD/index.m3u8
 #EXTINF:-1, tvg-logo=""  , AND PICTURES HD
 http://89.41.180.253:8080/INDIA_HINDI/AND_PICTURES_HD/index.m3u8
-#EXTINF:-1 tvg-logo""    ,MINPLEX HD
+#EXTINF:-1,[IN] & PICTURES HD IN
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9071
+#EXTINF:-1,IN: & pictures FHD
+http://iptvmedia.live:8080/14736/a477ffe7/16958
+#EXTINF:-1 tvg-logo""    ,MINiPLEX HD
 http://89.41.180.253:8080/INDIA_HINDI/MINIPLEX_HD/index.m3u8
+#EXTINF:-1,IN: Miniplex Airtel
+http://iptvmedia.live:8080/14736/a477ffe7/267540
 #EXTINF:-1, tvg-logo=""  , CINEPLEX HD
-https://bit.ly/2SGaD0g
+http://iptvmedia.live:8080/14736/a477ffe7/49550
+#EXTINF:-1,IN: COLORS Cineplex Bollywood FHD
+http://iptvmedia.live:8080/14736/a477ffe7/19741
 #EXTINF:-1, tvg-logo=""  , NATIONAL GEOGRAPHIC WILD HD
-https://bit.ly/3hslrq5
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9125
+#EXTINF:-1,[IN] National Geographic IN
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9126
 #EXTINF:-1, tvg-logo=""  , MTV HD+
-https://bit.ly/2SGaf10
+http://iptvmedia.live:8080/14736/a477ffe7/193647
 #EXTINF:-1, tvg-logo=""  , MTV BEATS HD
-https://bit.ly/3dCjAyR
+http://iptvmedia.live:8080/14736/a477ffe7/193068
 
 
 
@@ -4503,67 +4565,175 @@ https://bit.ly/3dCjAyR
 https://bit.ly/3wcFbVc
 #EXTINF:-1, tvg-logo=""  , STAR WORLD HD
 http://89.41.180.253:8080/INDIA_ENGLISH/STAR_WORLD_HD/index.m3u8
+#EXTINF:-1,IN: Star World India HD
+http://iptvmedia.live:8080/14736/a477ffe7/49565
+#EXTINF:-1,[IN] Star World HD IN
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9154
 #EXTINF:-1, tvg-logo=""  , ZEE CAFE HD
 http://89.41.180.253:8080/INDIA_ENGLISH/ZEE_CAFE_HD/index.m3u8
+#EXTINF:-1,IN: Zee Cafe HD
+http://iptvmedia.live:8080/14736/a477ffe7/49561
 #EXTINF:-1, tvg-logo=""  , COLORS INFINITY HD
 http://89.41.180.253:8080/INDIA_ENGLISH/COLORS_INFINITY_HD/index.m3u8
+#EXTINF:-1,[IN] Colors Infinity HD IN
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9093
 #EXTINF:-1, tvg-logo=""  , COMEDY CENTRAL HD
 https://bit.ly/3yhVO3m
-#EXTINF:-1, tvg-logo=""  , DISNEY INTERNATIONAL HD
-https://bit.ly/3qGaBSJ
+#EXTINF:-1, tvg-logo=""  , Disney
+http://iptvmedia.live:8080/14736/a477ffe7/192985
+#EXTINF:-1,[IN] Disney HD IN
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9111
+#EXTINF:-1,IN Disney Channel
+http://iptvmedia.live:8080/14736/a477ffe7/274606
 #EXTINF:-1, tvg-logo=""  , STAR MOVIES HD
 http://89.41.180.253:8080/INDIA_ENGLISH/STAR_MOVIES_HD/index.m3u8
+#EXTINF:-1,[IN] Star Movies HD IN
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9146
 #EXTINF:-1, tvg-logo=""  , STAR MOVIES SELECT HD
 http://89.41.180.253:8080/INDIA_ENGLISH/STAR_MOVIES_SELECT_HD/index.m3u8
 #EXTINF:-1, tvg-logo=""  , PIX HD
-https://bit.ly/3AgbQfT
+http://iptvmedia.live:8080/14736/a477ffe7/49539
+#EXTINF:-1,[IN] Pix HD IN
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9132
 #EXTINF:-1, tvg-logo=""  , AND FLIX HD
-https://bit.ly/3hom0Cq
+http://iptvmedia.live:8080/14736/a477ffe7/45506
+#EXTINF:-1,[IN] & FLIX HD IN
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9070
 #EXTINF:-1, tvg-logo=""  , AND PRIVE HD
 http://89.41.180.253:8080/INDIA_ENGLISH/AND_PRIVE_HD/index.m3u8
+#EXTINF:-1,IN: & Prive HD
+http://iptvmedia.live:8080/14736/a477ffe7/49557
+#EXTINF:-1,[IN] & PRIVE HD IN
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9072
 #EXTINF:-1, tvg-logo=""  , MOVIES NOW HD
-https://bit.ly/3wdYSvC
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9000
 #EXTINF:-1, tvg-logo=""  , MN+ HD
 https://bit.ly/3wcGnb8
 #EXTINF:-1, tvg-logo=""  , MNX HD
-https://bit.ly/3AjPb25
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/8999
 #EXTINF:-1, tvg-logo=""  , ROMEDY NOW HD
 http://89.41.180.253:8080/INDIA_ENGLISH/ROMEDY_NOW_HD/index.m3u8
+#EXTINF:-1,IN: Romedy Now FHD
+http://iptvmedia.live:8080/14736/a477ffe7/51876
+#EXTINF:-1,[IN] Romedy Now
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9026
 #EXTINF:-1, tvg-logo=""  , NICK HD+
-https://bit.ly/3xf0WVB
+http://iptvmedia.live:8080/14736/a477ffe7/82611
+#EXTINF:-1,IN nick India
+http://iptvmedia.live:8080/14736/a477ffe7/274972
+#EXTINF:-1,[IN] Nick HD IN
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9128
 #EXTINF:-1, tvg-logo=""  , CN+ HD
-https://bit.ly/2UmMbBt
+http://iptvmedia.live:8080/14736/a477ffe7/82584
+#EXTINF:-1,IN Cartoon Network
+http://iptvmedia.live:8080/14736/a477ffe7/273303
+#EXTINF:-1,[IN] Cartoon Network IN
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/908
 #EXTINF:-1, tvg-logo=""  , DISCOVERY HD
-https://bit.ly/3qGXBw8
+http://iptvmedia.live:8080/14736/a477ffe7/73792
+#EXTINF:-1,IN Discovery World
+http://iptvmedia.live:8080/14736/a477ffe7/273802
+#EXTINF:-1,[IN] Discovery HD IN
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9106
 #EXTINF:-1, tvg-logo=""  , ANIMAL PLANET HD
-https://bit.ly/3xg85VH
+http://iptvmedia.live:8080/14736/a477ffe7/1370
+#EXTINF:-1,IN ANIMAL PLANET FHD
+http://iptvmedia.live:8080/14736/a477ffe7/273373
+#EXTINF:-1,[IN] Animal Planet World HD IN
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9079
 #EXTINF:-1, tvg-logo=""  , HISTORY TV HD
-https://bit.ly/3hxz9JD
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9120
 #EXTINF:-1, tvg-logo=""  , SONY BBC EARTH HD
-https://bit.ly/3AmdzQN
+http://iptvmedia.live:8080/14736/a477ffe7/192995
+#EXTINF:-1,IN Sony BBC Earth HD
+http://iptvmedia.live:8080/14736/a477ffe7/273663
 #EXTINF:-1, tvg-logo=""  , FOX LIFE HD
-https://bit.ly/3qL7Nnw
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9117
 #EXTINF:-1, tvg-logo=""  , TRAVEL XP HD
-https://bit.ly/3hwRqqc
+http://iptvmedia.live:8080/14736/a477ffe7/82636
+#EXTINF:-1,IN Travelxp FHD
+http://iptvmedia.live:8080/14736/a477ffe7/274386
+#EXTINF:-1,[IN] Travel Xp HD IN
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9163
+
+
 
 
 
 #EXTINF:-1, tvg-logo="" group-title="SPORTS HDTV" , STAR SPORT 1 HD
-https://bit.ly/3qO654D
+http://iptvmedia.live:8080/14736/a477ffe7/3630
+#EXTINF:-1,[IN] STAR SPORTS 1 HD
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9178
 #EXTINF:-1, tvg-logo=""  , STAR SPORTS 2 HD
-https://bit.ly/3wdnvbV
+http://iptvmedia.live:8080/14736/a477ffe7/3631
+#EXTINF:-1,[IN] STAR SPORTS 2 HD
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9180
+#EXTINF:-1,[IN] Stars Ports 2 HD IN
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9155
 #EXTINF:-1, tvg-logo=""  , STAR SPORTS HD 1 HINDI
-https://bit.ly/2SLSPRA
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9148
 #EXTINF:-1, tvg-logo=""  , STAR SPORTS SELECT HD 1
-https://bit.ly/3hapQQA
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9149
 #EXTINF:-1, tvg-logo=""  , STAR SPORTS SELECT HD 2
-https://bit.ly/2SH3cGa
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9150
 #EXTINF:-1, tvg-logo=""  , SONY TEN 1 HD
-https://bit.ly/3x9ifaC
+http://iptvmedia.live:8080/14736/a477ffe7/16622
+#EXTINF:-1,[IN] SONY Ten 1 HD IN
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9158
 #EXTINF:-1, tvg-logo=""  , SONY TEN 2 HD
-https://bit.ly/3xeC2p1
+http://iptvmedia.live:8080/14736/a477ffe7/16621
+#EXTINF:-1,[IN] SONY Ten 2 HD IN
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9159
 #EXTINF:-1, tvg-logo=""  , SONY TEN 3 HD
-https://bit.ly/3yfTQ3f
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9160
 #EXTINF:-1, tvg-logo=""  , SONY SIX HD
-https://bit.ly/2UhFJMm
+http://iptvmedia.live:8080/14736/a477ffe7/4853
 
+
+
+
+
+
+
+#EXTINF:-1, tvg-logo="" group-title="U.S.A HDTV" ,FX East HD
+http://iptvmedia.live:8080/14736/a477ffe7/6342
+#EXTINF:-1,US: FX HD
+http://iptvmedia.live:8080/14736/a477ffe7/758
+#EXTINF:-1,US: FXM
+http://iptvmedia.live:8080/14736/a477ffe7/192749
+#EXTINF:-1,US: FXM Retro HD
+http://iptvmedia.live:8080/14736/a477ffe7/5840
+#EXTINF:-1,US: FXX HD
+http://iptvmedia.live:8080/14736/a477ffe7/2330
+#EXTINF:-1,[USA] FX
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/5018
+#EXTINF:-1,[USA] FXM
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/5019
+#EXTINF:-1,[USA] FXX
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/5017
+#EXTINF:-1,US: HBO 2 FHD
+http://iptvmedia.live:8080/14736/a477ffe7/5844
+#EXTINF:-1,US: HBO COMEDY FHD
+http://iptvmedia.live:8080/14736/a477ffe7/2335
+#EXTINF:-1,US: HBO East HD
+http://iptvmedia.live:8080/14736/a477ffe7/6382
+#EXTINF:-1,US: HBO Family HD
+http://iptvmedia.live:8080/14736/a477ffe7/760
+#EXTINF:-1,US: HBO Plus West FHD
+http://iptvmedia.live:8080/14736/a477ffe7/76364
+#EXTINF:-1,[US] HBO COMEDY HD
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9797
+#EXTINF:-1,[US] HBO Family HD
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9798
+#EXTINF:-1,[US] HBO HD
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9799
+#EXTINF:-1,[US] HBO SIGNATURE
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9800
+#EXTINF:-1,[US] HBO ZONE
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9858
+#EXTINF:-1,US: HBO Signature FHD
+http://iptvmedia.live:8080/14736/a477ffe7/6305
+#EXTINF:-1,US: HBO West HD
+http://iptvmedia.live:8080/14736/a477ffe7/6383
+#EXTINF:-1,US: HBO Zone FHD
+http://iptvmedia.live:8080/14736/a477ffe7/6328
