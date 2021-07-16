@@ -4153,12 +4153,32 @@ http://cv.khushitv.xyz/channels.php?c=smileusa&e=.m3u8
 http://212.224.98.196:2200/R-EX/HINDI_STAR_GOLD_HD-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:0  ,STAR GOLD SELECT HD
 http://212.224.98.196:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0  ,EVERGREEN CLASSIC
+http://212.224.98.196:2200/R-EX/HINDI_EVERGREEN_CLASSIC-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0  ,FOX LIFE HD
+http://212.224.98.196:2200/R-EX/HINDI_FOX_LIFE_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0  ,MN PLUS HD
+http://212.224.98.196:2200/R-EX/HINDI_MN_PLUS_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0  ,MOVIES NOW HD
+http://212.224.98.196:2200/R-EX/HINDI_MOVIES_NOW_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0  ,STAR BHARAT HD
+http://212.224.98.196:2200/R-EX/HINDI_STAR_BHARAT_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0  ,STAR UTSAV
+http://212.224.98.196:2200/R-EX/HINDI_STAR_UTSAV_MOVIES-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:0  ,STAR GOLD 2
 http://212.102.60.40:2200/R-EX/STAR_GOLD_2-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:0  ,UTV HD
 http://212.224.98.196:2200/R-EX/HINDI_UTV_HD-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:0  ,UTV MOVIES
 http://212.102.60.40:2200/R-EX/HINDI_UTV_MOVIES-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0  ,BT SPORTS 1 HD
+http://212.224.98.196:2200/EX/BT_Sport_1_HD-uk/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0  ,BT SPORTS 1 HD
+http://212.224.98.196:2200/EX/BT_Sport_2_HD-uk/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0  ,BT SPORTS 1 HD
+http://212.224.98.196:2200/EX/BT_Sport_3_HD-uk/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0  ,STAR SPORTS HINDI
+http://212.224.98.196:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:0  ,STAR SPORTS 1 HD
 http://212.224.98.196:2200/EX/starsports1hd-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:0  ,STAR SPORTS 2 HD
